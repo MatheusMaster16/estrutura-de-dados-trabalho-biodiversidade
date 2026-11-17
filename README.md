@@ -38,13 +38,13 @@ Os dados das APIs são salvos sem alteração em `dados_brutos/` (arquivos `.jso
 
 Precisa de **Python** e de **internet**. Abra a pasta no VS Code e rode nesta ordem:
 
-pip install -r requirements.txt     # 1. instala as bibliotecas
+pip install -r requirements.txt     (# 1. instala as bibliotecas)
 
-python 1_coleta.py                  # 2. busca os dados nas APIs (leva ~2 minutos)
+python 1_coleta.py                 (# 2. busca os dados nas APIs)
 
-python 2_tratamento.py              # 3. limpa e organiza os dados
+python 2_tratamento.py              (# 3. limpa e organiza os dados)
 
-python -m streamlit run 3_dash.py   # 4. abre o dashboard no navegador
+python -m streamlit run 3_dash.py   (# 4. abre o dashboard no navegador)
 
 - O passo 2 cria a pasta `dados_brutos/` e o passo 3 cria a pasta `dados_tratados/`.
 - As duas pastas já vêm no repositório. Para só abrir o dashboard, basta fazer os passos 1 e 4.
