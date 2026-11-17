@@ -1,0 +1,252 @@
+{
+ "total": 79004,
+ "por_ano": [
+  {
+   "name": "2025",
+   "count": 9736
+  },
+  {
+   "name": "2021",
+   "count": 8135
+  },
+  {
+   "name": "2022",
+   "count": 7322
+  },
+  {
+   "name": "2024",
+   "count": 6931
+  },
+  {
+   "name": "2012",
+   "count": 5850
+  },
+  {
+   "name": "2023",
+   "count": 5826
+  },
+  {
+   "name": "2018",
+   "count": 5191
+  },
+  {
+   "name": "2020",
+   "count": 5028
+  },
+  {
+   "name": "2017",
+   "count": 4232
+  },
+  {
+   "name": "2011",
+   "count": 3395
+  },
+  {
+   "name": "2019",
+   "count": 3154
+  },
+  {
+   "name": "2016",
+   "count": 2902
+  },
+  {
+   "name": "2009",
+   "count": 2740
+  },
+  {
+   "name": "2015",
+   "count": 2055
+  },
+  {
+   "name": "2013",
+   "count": 1992
+  },
+  {
+   "name": "2010",
+   "count": 1980
+  },
+  {
+   "name": "2014",
+   "count": 904
+  },
+  {
+   "name": "2008",
+   "count": 549
+  },
+  {
+   "name": "2007",
+   "count": 363
+  },
+  {
+   "name": "2005",
+   "count": 203
+  },
+  {
+   "name": "2006",
+   "count": 192
+  },
+  {
+   "name": "2004",
+   "count": 136
+  },
+  {
+   "name": "2001",
+   "count": 71
+  },
+  {
+   "name": "2002",
+   "count": 69
+  },
+  {
+   "name": "2000",
+   "count": 46
+  },
+  {
+   "name": "2003",
+   "count": 2
+  }
+ ],
+ "por_tipo": [
+  {
+   "name": "HUMAN_OBSERVATION",
+   "count": 62203
+  },
+  {
+   "name": "PRESERVED_SPECIMEN",
+   "count": 15992
+  },
+  {
+   "name": "OCCURRENCE",
+   "count": 651
+  },
+  {
+   "name": "MATERIAL_SAMPLE",
+   "count": 85
+  },
+  {
+   "name": "MATERIAL_CITATION",
+   "count": 38
+  },
+  {
+   "name": "MACHINE_OBSERVATION",
+   "count": 35
+  }
+ ],
+ "especies": [
+  {
+   "name": "2482755",
+   "count": 1609,
+   "nome_cientifico": "Pitangus sulphuratus"
+  },
+  {
+   "name": "2488622",
+   "count": 1373,
+   "nome_cientifico": "Thraupis sayaca"
+  },
+  {
+   "name": "2479115",
+   "count": 1361,
+   "nome_cientifico": "Aratinga leucophthalma"
+  },
+  {
+   "name": "2495287",
+   "count": 1232,
+   "nome_cientifico": "Patagioenas picazuro"
+  },
+  {
+   "name": "2481942",
+   "count": 1058,
+   "nome_cientifico": "Coragyps atratus"
+  },
+  {
+   "name": "2489208",
+   "count": 1046,
+   "nome_cientifico": "Notiochelidon cyanoleuca"
+  },
+  {
+   "name": "8346347",
+   "count": 957,
+   "nome_cientifico": "Troglodytes musculus"
+  },
+  {
+   "name": "2495358",
+   "count": 932,
+   "nome_cientifico": "Zenaida auriculata"
+  },
+  {
+   "name": "5231190",
+   "count": 931,
+   "nome_cientifico": "Passer domesticus"
+  },
+  {
+   "name": "2485821",
+   "count": 881,
+   "nome_cientifico": "Furnarius rufus"
+  }
+ ],
+ "fontes": [
+  {
+   "name": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+   "count": 55206,
+   "titulo": "EOD – eBird Observation Dataset"
+  },
+  {
+   "name": "281995e2-1066-46a6-b060-f024f2f3b083",
+   "count": 14585,
+   "titulo": "DCBU - Coleção Taxonômica do Departamento de Ecologia e Biologia Evolutiva da UFSCar"
+  },
+  {
+   "name": "ffe38a37-d659-4b1a-a935-5a5264e3cc0a",
+   "count": 3493,
+   "titulo": "ICMBio | Dados de ocorrência de espécies do Sistema de Autorização e Informações de Biodiversidade (SISBio) do ICMBio"
+  },
+  {
+   "name": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+   "count": 3208,
+   "titulo": "iNaturalist Research-grade Observations"
+  },
+  {
+   "name": "98794560-a48d-4519-b563-77f835731b80",
+   "count": 742,
+   "titulo": "Coleção de Lepidoptera do MZUSP"
+  }
+ ],
+ "por_grupo": [
+  {
+   "grupo": "Aves",
+   "registros": 56114,
+   "local_mais_citado": "L4817280",
+   "registros_no_local": 12397
+  },
+  {
+   "grupo": "Mamíferos",
+   "registros": 982,
+   "local_mais_citado": "JundiaÃ­",
+   "registros_no_local": 175
+  },
+  {
+   "grupo": "Répteis",
+   "registros": 94,
+   "local_mais_citado": null,
+   "registros_no_local": 0
+  },
+  {
+   "grupo": "Anfíbios",
+   "registros": 675,
+   "local_mais_citado": "'Minutal' - Serra do Japi",
+   "registros_no_local": 23
+  },
+  {
+   "grupo": "Insetos",
+   "registros": 19341,
+   "local_mais_citado": "Reserva Biológica da Serra do Japi",
+   "registros_no_local": 13143
+  },
+  {
+   "grupo": "Aracnídeos",
+   "registros": 1590,
+   "local_mais_citado": "n.a. | Serra do Japi",
+   "registros_no_local": 7
+  }
+ ]
+}

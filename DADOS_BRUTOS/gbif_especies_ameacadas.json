@@ -1,0 +1,205 @@
+[
+ {
+  "local": "Brasil",
+  "categoria": "CR",
+  "especies": [
+   {
+    "name": "5961738",
+    "count": 3447,
+    "nome_cientifico": "Malacoctenus brunoi",
+    "classe": null
+   },
+   {
+    "name": "2260321",
+    "count": 1847,
+    "nome_cientifico": "Mussismilia braziliensis",
+    "classe": "Anthozoa"
+   },
+   {
+    "name": "8841716",
+    "count": 1519,
+    "nome_cientifico": "Eretmochelys imbricata",
+    "classe": "Testudines"
+   },
+   {
+    "name": "2259487",
+    "count": 753,
+    "nome_cientifico": "Madracis decactis",
+    "classe": "Anthozoa"
+   },
+   {
+    "name": "5232480",
+    "count": 682,
+    "nome_cientifico": "Mergus octosetaceus",
+    "classe": "Aves"
+   }
+  ]
+ },
+ {
+  "local": "Brasil",
+  "categoria": "EN",
+  "especies": [
+   {
+    "name": "2398808",
+    "count": 6865,
+    "nome_cientifico": "Stegastes rocasensis",
+    "classe": null
+   },
+   {
+    "name": "2479617",
+    "count": 4918,
+    "nome_cientifico": "Amazona vinacea",
+    "classe": "Aves"
+   },
+   {
+    "name": "2393679",
+    "count": 3873,
+    "nome_cientifico": "Scarus trispinosus",
+    "classe": null
+   },
+   {
+    "name": "2486514",
+    "count": 2016,
+    "nome_cientifico": "Iodopleura pipra",
+    "classe": "Aves"
+   },
+   {
+    "name": "2482303",
+    "count": 1857,
+    "nome_cientifico": "Pipile jacutinga",
+    "classe": "Aves"
+   }
+  ]
+ },
+ {
+  "local": "Brasil",
+  "categoria": "VU",
+  "especies": [
+   {
+    "name": "2435296",
+    "count": 121861,
+    "nome_cientifico": "Trichechus manatus",
+    "classe": "Mammalia"
+   },
+   {
+    "name": "2482174",
+    "count": 18883,
+    "nome_cientifico": "Crax fasciolata",
+    "classe": "Aves"
+   },
+   {
+    "name": "2479359",
+    "count": 14083,
+    "nome_cientifico": "Anodorhynchus hyacinthinus",
+    "classe": "Aves"
+   },
+   {
+    "name": "2481721",
+    "count": 10584,
+    "nome_cientifico": "Tringa flavipes",
+    "classe": "Aves"
+   },
+   {
+    "name": "2482223",
+    "count": 6452,
+    "nome_cientifico": "Penelope ochrogaster",
+    "classe": "Aves"
+   }
+  ]
+ },
+ {
+  "local": "Jundiaí",
+  "categoria": "CR",
+  "especies": []
+ },
+ {
+  "local": "Jundiaí",
+  "categoria": "EN",
+  "especies": [
+   {
+    "name": "2436860",
+    "count": 1,
+    "nome_cientifico": "Sylvilagus brasiliensis",
+    "classe": "Mammalia"
+   },
+   {
+    "name": "2438482",
+    "count": 1,
+    "nome_cientifico": "Mesocricetus auratus",
+    "classe": "Mammalia"
+   },
+   {
+    "name": "8827576",
+    "count": 1,
+    "nome_cientifico": "Callithrix aurita",
+    "classe": "Mammalia"
+   }
+  ]
+ },
+ {
+  "local": "Jundiaí",
+  "categoria": "VU",
+  "especies": [
+   {
+    "name": "2481721",
+    "count": 19,
+    "nome_cientifico": "Tringa flavipes",
+    "classe": "Aves"
+   },
+   {
+    "name": "2434930",
+    "count": 15,
+    "nome_cientifico": "Leopardus tigrinus",
+    "classe": "Mammalia"
+   },
+   {
+    "name": "2491385",
+    "count": 14,
+    "nome_cientifico": "Sporophila frontalis",
+    "classe": "Aves"
+   },
+   {
+    "name": "5218101",
+    "count": 14,
+    "nome_cientifico": "Hylodes ornatus",
+    "classe": "Amphibia"
+   },
+   {
+    "name": "2491326",
+    "count": 2,
+    "nome_cientifico": "Sporophila falcirostris",
+    "classe": "Aves"
+   },
+   {
+    "name": "2352762",
+    "count": 1,
+    "nome_cientifico": "Rachoviscus crassiceps",
+    "classe": null
+   },
+   {
+    "name": "2436346",
+    "count": 1,
+    "nome_cientifico": "Myrmecophaga tridactyla",
+    "classe": "Mammalia"
+   },
+   {
+    "name": "2440993",
+    "count": 1,
+    "nome_cientifico": "Tayassu pecari",
+    "classe": "Mammalia"
+   },
+   {
+    "name": "5783662",
+    "count": 1,
+    "nome_cientifico": "Drymaeus acervatus",
+    "classe": "Gastropoda"
+   },
+   {
+    "name": "7740958",
+    "count": 1,
+    "nome_cientifico": "Leopardus guttulus",
+    "classe": "Mammalia"
+   }
+  ]
+ }
+]

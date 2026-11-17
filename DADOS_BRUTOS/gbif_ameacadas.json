@@ -1,0 +1,909 @@
+[
+ {
+  "categoria": "CR",
+  "por_estado": [
+   {
+    "name": "Bahia",
+    "count": 1045
+   },
+   {
+    "name": "Pernambuco",
+    "count": 1032
+   },
+   {
+    "name": "Minas Gerais",
+    "count": 887
+   },
+   {
+    "name": "Espírito Santo",
+    "count": 669
+   },
+   {
+    "name": "Alagoas",
+    "count": 662
+   },
+   {
+    "name": "Rio Grande do Sul",
+    "count": 660
+   },
+   {
+    "name": "Santa Catarina",
+    "count": 426
+   },
+   {
+    "name": "São Paulo",
+    "count": 373
+   },
+   {
+    "name": "Rio Grande do Norte",
+    "count": 365
+   },
+   {
+    "name": "Amazonas",
+    "count": 314
+   },
+   {
+    "name": "Ceará",
+    "count": 252
+   },
+   {
+    "name": "Rio de Janeiro",
+    "count": 243
+   },
+   {
+    "name": "Pará",
+    "count": 148
+   },
+   {
+    "name": "Tocantins",
+    "count": 114
+   },
+   {
+    "name": "Rs",
+    "count": 70
+   },
+   {
+    "name": "Goiás",
+    "count": 65
+   },
+   {
+    "name": "Mato Grosso do Sul",
+    "count": 64
+   },
+   {
+    "name": "Maranhão",
+    "count": 54
+   },
+   {
+    "name": "Sergipe",
+    "count": 52
+   },
+   {
+    "name": "Paraná",
+    "count": 50
+   },
+   {
+    "name": "Piauí",
+    "count": 49
+   },
+   {
+    "name": "Mato Grosso",
+    "count": 40
+   },
+   {
+    "name": "Paraíba",
+    "count": 29
+   },
+   {
+    "name": "Sc",
+    "count": 25
+   },
+   {
+    "name": "Distrito Federal",
+    "count": 18
+   },
+   {
+    "name": "Espirito Santo",
+    "count": 17
+   },
+   {
+    "name": "Rondônia",
+    "count": 17
+   },
+   {
+    "name": "Goias",
+    "count": 15
+   },
+   {
+    "name": "ParanÃ¡",
+    "count": 11
+   },
+   {
+    "name": "Roraima",
+    "count": 11
+   },
+   {
+    "name": "Acre",
+    "count": 10
+   },
+   {
+    "name": "Sp",
+    "count": 9
+   },
+   {
+    "name": "Amapá",
+    "count": 8
+   },
+   {
+    "name": "Estado de Mato Grosso do Sul",
+    "count": 8
+   },
+   {
+    "name": "Estado de Sao Paulo",
+    "count": 8
+   },
+   {
+    "name": "Para",
+    "count": 6
+   },
+   {
+    "name": "GoiÃ¡s",
+    "count": 5
+   },
+   {
+    "name": "Rj",
+    "count": 5
+   },
+   {
+    "name": "SÃ£o Paulo",
+    "count": 5
+   },
+   {
+    "name": "Maranhao",
+    "count": 4
+   },
+   {
+    "name": "Pa",
+    "count": 4
+   },
+   {
+    "name": "Sao Paulo",
+    "count": 4
+   },
+   {
+    "name": "Estado de Santa Catarina",
+    "count": 2
+   },
+   {
+    "name": "Goias State",
+    "count": 2
+   },
+   {
+    "name": "Rio de Janeiro State",
+    "count": 2
+   },
+   {
+    "name": "Ba",
+    "count": 1
+   },
+   {
+    "name": "Esplanada",
+    "count": 1
+   },
+   {
+    "name": "Estado da Bahia",
+    "count": 1
+   },
+   {
+    "name": "Estado de Goias",
+    "count": 1
+   },
+   {
+    "name": "Estado de Rondonia",
+    "count": 1
+   },
+   {
+    "name": "Mato Gosso",
+    "count": 1
+   },
+   {
+    "name": "Mg",
+    "count": 1
+   },
+   {
+    "name": "Minas gerais",
+    "count": 1
+   },
+   {
+    "name": "Paraiba",
+    "count": 1
+   },
+   {
+    "name": "Parana",
+    "count": 1
+   },
+   {
+    "name": "Pr",
+    "count": 1
+   },
+   {
+    "name": "Southeast Region",
+    "count": 1
+   },
+   {
+    "name": "State of Espirito Santo",
+    "count": 1
+   },
+   {
+    "name": "State of Goias",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "categoria": "EN",
+  "por_estado": [
+   {
+    "name": "São Paulo",
+    "count": 5084
+   },
+   {
+    "name": "Rio Grande do Sul",
+    "count": 3122
+   },
+   {
+    "name": "Bahia",
+    "count": 2898
+   },
+   {
+    "name": "Santa Catarina",
+    "count": 2757
+   },
+   {
+    "name": "Rio de Janeiro",
+    "count": 2363
+   },
+   {
+    "name": "Minas Gerais",
+    "count": 2040
+   },
+   {
+    "name": "Pernambuco",
+    "count": 1875
+   },
+   {
+    "name": "Paraná",
+    "count": 1611
+   },
+   {
+    "name": "Espírito Santo",
+    "count": 1369
+   },
+   {
+    "name": "Ceará",
+    "count": 1231
+   },
+   {
+    "name": "Mato Grosso",
+    "count": 1183
+   },
+   {
+    "name": "Amazonas",
+    "count": 869
+   },
+   {
+    "name": "Alagoas",
+    "count": 687
+   },
+   {
+    "name": "Goiás",
+    "count": 530
+   },
+   {
+    "name": "Paraíba",
+    "count": 450
+   },
+   {
+    "name": "Pará",
+    "count": 384
+   },
+   {
+    "name": "Mato Grosso do Sul",
+    "count": 377
+   },
+   {
+    "name": "Rio Grande do Norte",
+    "count": 231
+   },
+   {
+    "name": "Piauí",
+    "count": 206
+   },
+   {
+    "name": "Distrito Federal",
+    "count": 175
+   },
+   {
+    "name": "Roraima",
+    "count": 169
+   },
+   {
+    "name": "Rondônia",
+    "count": 155
+   },
+   {
+    "name": "Ro",
+    "count": 128
+   },
+   {
+    "name": "Rs",
+    "count": 103
+   },
+   {
+    "name": "Maranhão",
+    "count": 97
+   },
+   {
+    "name": "Sergipe",
+    "count": 91
+   },
+   {
+    "name": "Sp",
+    "count": 89
+   },
+   {
+    "name": "Amapá",
+    "count": 81
+   },
+   {
+    "name": "Tocantins",
+    "count": 78
+   },
+   {
+    "name": "Sc",
+    "count": 77
+   },
+   {
+    "name": "Não especificado",
+    "count": 36
+   },
+   {
+    "name": "ParanÃ¡",
+    "count": 30
+   },
+   {
+    "name": "Estado de Sao Paulo",
+    "count": 27
+   },
+   {
+    "name": "Misiones",
+    "count": 22
+   },
+   {
+    "name": "Río de Janeiro",
+    "count": 20
+   },
+   {
+    "name": "Rj",
+    "count": 18
+   },
+   {
+    "name": "Mg",
+    "count": 17
+   },
+   {
+    "name": "Para",
+    "count": 16
+   },
+   {
+    "name": "Sao Paulo",
+    "count": 15
+   },
+   {
+    "name": "Ceara",
+    "count": 14
+   },
+   {
+    "name": "Estado de Minas Gerais",
+    "count": 14
+   },
+   {
+    "name": "Acre",
+    "count": 13
+   },
+   {
+    "name": "To",
+    "count": 11
+   },
+   {
+    "name": "Goias",
+    "count": 10
+   },
+   {
+    "name": "Pe",
+    "count": 7
+   },
+   {
+    "name": "Mt",
+    "count": 6
+   },
+   {
+    "name": "Pr",
+    "count": 6
+   },
+   {
+    "name": "Rio Grande do Sul/Santa Catarina",
+    "count": 6
+   },
+   {
+    "name": "Ba",
+    "count": 5
+   },
+   {
+    "name": "Maranhao",
+    "count": 5
+   },
+   {
+    "name": "Estado de Mato Grosso",
+    "count": 4
+   },
+   {
+    "name": "Estado de Tocantins",
+    "count": 4
+   },
+   {
+    "name": "ParÃ¡",
+    "count": 3
+   },
+   {
+    "name": "Pb",
+    "count": 3
+   },
+   {
+    "name": "Es",
+    "count": 2
+   },
+   {
+    "name": "Espirito Santo",
+    "count": 2
+   },
+   {
+    "name": "Espiritu Santo",
+    "count": 2
+   },
+   {
+    "name": "Estado da Bahia",
+    "count": 2
+   },
+   {
+    "name": "Estado do Rio de Janeiro",
+    "count": 2
+   },
+   {
+    "name": "GoiÃ¡s",
+    "count": 2
+   },
+   {
+    "name": "Minas gerais",
+    "count": 2
+   },
+   {
+    "name": "Northeast Region",
+    "count": 2
+   },
+   {
+    "name": "Parana",
+    "count": 2
+   },
+   {
+    "name": "Alagoas State",
+    "count": 1
+   },
+   {
+    "name": "Ceara State",
+    "count": 1
+   },
+   {
+    "name": "Estado de Rondonia",
+    "count": 1
+   },
+   {
+    "name": "Estado de Santa Catarina",
+    "count": 1
+   },
+   {
+    "name": "Estado do Parana",
+    "count": 1
+   },
+   {
+    "name": "Mato Grsso do Sul",
+    "count": 1
+   },
+   {
+    "name": "Pa",
+    "count": 1
+   },
+   {
+    "name": "Rio de janeiro",
+    "count": 1
+   },
+   {
+    "name": "South Region",
+    "count": 1
+   },
+   {
+    "name": "Southeast Region",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "categoria": "VU",
+  "por_estado": [
+   {
+    "name": "Mato Grosso",
+    "count": 37821
+   },
+   {
+    "name": "Mato Grosso do Sul",
+    "count": 12940
+   },
+   {
+    "name": "São Paulo",
+    "count": 12145
+   },
+   {
+    "name": "Rio Grande do Sul",
+    "count": 11141
+   },
+   {
+    "name": "Pará",
+    "count": 11076
+   },
+   {
+    "name": "Bahia",
+    "count": 10321
+   },
+   {
+    "name": "Santa Catarina",
+    "count": 6666
+   },
+   {
+    "name": "Minas Gerais",
+    "count": 6488
+   },
+   {
+    "name": "Amazonas",
+    "count": 6480
+   },
+   {
+    "name": "Rondônia",
+    "count": 6263
+   },
+   {
+    "name": "Rio de Janeiro",
+    "count": 6215
+   },
+   {
+    "name": "Espírito Santo",
+    "count": 4973
+   },
+   {
+    "name": "Ceará",
+    "count": 4572
+   },
+   {
+    "name": "Pernambuco",
+    "count": 3196
+   },
+   {
+    "name": "Paraná",
+    "count": 2693
+   },
+   {
+    "name": "Rio Grande do Norte",
+    "count": 2410
+   },
+   {
+    "name": "Alagoas",
+    "count": 2381
+   },
+   {
+    "name": "Goiás",
+    "count": 2270
+   },
+   {
+    "name": "Tocantins",
+    "count": 1756
+   },
+   {
+    "name": "Maranhão",
+    "count": 1714
+   },
+   {
+    "name": "Sergipe",
+    "count": 1644
+   },
+   {
+    "name": "Acre",
+    "count": 956
+   },
+   {
+    "name": "Distrito Federal",
+    "count": 944
+   },
+   {
+    "name": "Amapá",
+    "count": 772
+   },
+   {
+    "name": "Paraíba",
+    "count": 702
+   },
+   {
+    "name": "Roraima",
+    "count": 662
+   },
+   {
+    "name": "Piauí",
+    "count": 392
+   },
+   {
+    "name": "Sp",
+    "count": 167
+   },
+   {
+    "name": "Sc",
+    "count": 84
+   },
+   {
+    "name": "Rs",
+    "count": 71
+   },
+   {
+    "name": "Central-West Region",
+    "count": 61
+   },
+   {
+    "name": "ParanÃ¡",
+    "count": 44
+   },
+   {
+    "name": "Não especificado",
+    "count": 41
+   },
+   {
+    "name": "Ba",
+    "count": 27
+   },
+   {
+    "name": "Para",
+    "count": 26
+   },
+   {
+    "name": "Río de Janeiro",
+    "count": 25
+   },
+   {
+    "name": "Parana",
+    "count": 16
+   },
+   {
+    "name": "Espirito Santo",
+    "count": 14
+   },
+   {
+    "name": "Estado da Bahia",
+    "count": 14
+   },
+   {
+    "name": "Estado de Mato Grosso",
+    "count": 13
+   },
+   {
+    "name": "MG/ES",
+    "count": 11
+   },
+   {
+    "name": "Misiones",
+    "count": 10
+   },
+   {
+    "name": "EspÌrito Santo",
+    "count": 9
+   },
+   {
+    "name": "Estado de Goias",
+    "count": 8
+   },
+   {
+    "name": "Estado de Minas Gerais",
+    "count": 8
+   },
+   {
+    "name": "Estado de Sao Paulo",
+    "count": 8
+   },
+   {
+    "name": "Pb",
+    "count": 8
+   },
+   {
+    "name": "Amapa",
+    "count": 7
+   },
+   {
+    "name": "Goias",
+    "count": 6
+   },
+   {
+    "name": "Mg",
+    "count": 6
+   },
+   {
+    "name": "Mt",
+    "count": 6
+   },
+   {
+    "name": "Rj",
+    "count": 6
+   },
+   {
+    "name": "State of Mato Grosso",
+    "count": 6
+   },
+   {
+    "name": "Brasil",
+    "count": 5
+   },
+   {
+    "name": "Ce",
+    "count": 5
+   },
+   {
+    "name": "Pe",
+    "count": 5
+   },
+   {
+    "name": "Estado de Mato Grosso do Sul",
+    "count": 4
+   },
+   {
+    "name": "Maranhao",
+    "count": 4
+   },
+   {
+    "name": "Rio Grande do Sul State",
+    "count": 4
+   },
+   {
+    "name": "Sao Paulo",
+    "count": 4
+   },
+   {
+    "name": "Estado do Parana",
+    "count": 3
+   },
+   {
+    "name": "Go",
+    "count": 3
+   },
+   {
+    "name": "Não informado",
+    "count": 3
+   },
+   {
+    "name": "Rondonia",
+    "count": 3
+   },
+   {
+    "name": "Río Grande",
+    "count": 3
+   },
+   {
+    "name": "Estado do Rio de Janeiro",
+    "count": 2
+   },
+   {
+    "name": "Mato Grosso e Pará",
+    "count": 2
+   },
+   {
+    "name": "Pa",
+    "count": 2
+   },
+   {
+    "name": "Santa Catarina State",
+    "count": 2
+   },
+   {
+    "name": "South Region",
+    "count": 2
+   },
+   {
+    "name": "Caracaraí",
+    "count": 1
+   },
+   {
+    "name": "Es",
+    "count": 1
+   },
+   {
+    "name": "Estado da Paraiba",
+    "count": 1
+   },
+   {
+    "name": "Estado de Espirito Santo",
+    "count": 1
+   },
+   {
+    "name": "Estado do Amazonas",
+    "count": 1
+   },
+   {
+    "name": "Guaruja",
+    "count": 1
+   },
+   {
+    "name": "Mato Grosso State",
+    "count": 1
+   },
+   {
+    "name": "Para State",
+    "count": 1
+   },
+   {
+    "name": "Paraiba",
+    "count": 1
+   },
+   {
+    "name": "Paráná",
+    "count": 1
+   },
+   {
+    "name": "Piaui",
+    "count": 1
+   },
+   {
+    "name": "Pr",
+    "count": 1
+   },
+   {
+    "name": "Rio Preto da Eva",
+    "count": 1
+   },
+   {
+    "name": "RondÃ#?#nia",
+    "count": 1
+   },
+   {
+    "name": "Salvador",
+    "count": 1
+   },
+   {
+    "name": "Sao Pablo",
+    "count": 1
+   },
+   {
+    "name": "Southeast Region",
+    "count": 1
+   },
+   {
+    "name": "State of Bahia",
+    "count": 1
+   },
+   {
+    "name": "State of Mato Grosso do Sul",
+    "count": 1
+   },
+   {
+    "name": "Tocantis",
+    "count": 1
+   },
+   {
+    "name": "rio de janeiro",
+    "count": 1
+   }
+  ]
+ }
+]

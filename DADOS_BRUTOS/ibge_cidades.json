@@ -1,0 +1,208 @@
+[
+ {
+  "id": "93",
+  "variavel": "População residente",
+  "unidade": "Pessoas",
+  "resultados": [
+   {
+    "classificacoes": [],
+    "series": [
+     {
+      "localidade": {
+       "id": "3525904",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Jundiaí (SP)"
+      },
+      "serie": {
+       "2022": "443221"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3556503",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Várzea Paulista (SP)"
+      },
+      "serie": {
+       "2022": "115771"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3509601",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Campo Limpo Paulista (SP)"
+      },
+      "serie": {
+       "2022": "77632"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3524006",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Itupeva (SP)"
+      },
+      "serie": {
+       "2022": "70616"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3527306",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Louveira (SP)"
+      },
+      "serie": {
+       "2022": "51847"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3525201",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Jarinu (SP)"
+      },
+      "serie": {
+       "2022": "37535"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3508405",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Cabreúva (SP)"
+      },
+      "serie": {
+       "2022": "47011"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "6318",
+  "variavel": "Área da unidade territorial",
+  "unidade": "Quilômetros quadrados",
+  "resultados": [
+   {
+    "classificacoes": [],
+    "series": [
+     {
+      "localidade": {
+       "id": "3525904",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Jundiaí (SP)"
+      },
+      "serie": {
+       "2022": "431.204"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3556503",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Várzea Paulista (SP)"
+      },
+      "serie": {
+       "2022": "35.120"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3509601",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Campo Limpo Paulista (SP)"
+      },
+      "serie": {
+       "2022": "79.403"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3524006",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Itupeva (SP)"
+      },
+      "serie": {
+       "2022": "200.876"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3527306",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Louveira (SP)"
+      },
+      "serie": {
+       "2022": "55.738"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3525201",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Jarinu (SP)"
+      },
+      "serie": {
+       "2022": "207.549"
+      }
+     },
+     {
+      "localidade": {
+       "id": "3508405",
+       "nivel": {
+        "id": "N6",
+        "nome": "Município"
+       },
+       "nome": "Cabreúva (SP)"
+      },
+      "serie": {
+       "2022": "260.234"
+      }
+     }
+    ]
+   }
+  ]
+ }
+]

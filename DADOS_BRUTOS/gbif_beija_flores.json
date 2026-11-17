@@ -1,0 +1,105 @@
+{
+ "total": 2074,
+ "especies": [
+  {
+   "name": "2476667",
+   "count": 452,
+   "nome_cientifico": "Eupetomena macroura"
+  },
+  {
+   "name": "2476548",
+   "count": 378,
+   "nome_cientifico": "Thalurania glaucopis"
+  },
+  {
+   "name": "5788555",
+   "count": 318,
+   "nome_cientifico": "Chlorostilbon lucidus"
+  },
+  {
+   "name": "2476599",
+   "count": 234,
+   "nome_cientifico": "Phaethornis pretrei"
+  },
+  {
+   "name": "2476291",
+   "count": 162,
+   "nome_cientifico": "Leucochloris albicollis"
+  },
+  {
+   "name": "2476193",
+   "count": 129,
+   "nome_cientifico": "Florisuga fusca"
+  },
+  {
+   "name": "11070437",
+   "count": 119,
+   "nome_cientifico": "Chionomesa lactea"
+  },
+  {
+   "name": "2476592",
+   "count": 117,
+   "nome_cientifico": "Phaethornis eurynome"
+  },
+  {
+   "name": "11021619",
+   "count": 48,
+   "nome_cientifico": "Chrysuronia versicolor"
+  },
+  {
+   "name": "2476373",
+   "count": 33,
+   "nome_cientifico": "Calliphlox amethystina"
+  },
+  {
+   "name": "2476718",
+   "count": 27,
+   "nome_cientifico": "Anthracothorax nigricollis"
+  },
+  {
+   "name": "5228484",
+   "count": 18,
+   "nome_cientifico": "Colibri serrirostris"
+  },
+  {
+   "name": "2476993",
+   "count": 14,
+   "nome_cientifico": "Heliomaster squamosus"
+  },
+  {
+   "name": "2477001",
+   "count": 9,
+   "nome_cientifico": "Lophornis chalybeus"
+  },
+  {
+   "name": "10941997",
+   "count": 8,
+   "nome_cientifico": "Chionomesa fimbriata"
+  },
+  {
+   "name": "10983172",
+   "count": 3,
+   "nome_cientifico": "Eupetomena cirrochloris"
+  },
+  {
+   "name": "2476220",
+   "count": 2,
+   "nome_cientifico": "Heliothryx auritus"
+  },
+  {
+   "name": "10933139",
+   "count": 1,
+   "nome_cientifico": "Chlorestes cyanus"
+  },
+  {
+   "name": "2476636",
+   "count": 1,
+   "nome_cientifico": "Phaethornis ruber"
+  },
+  {
+   "name": "2476730",
+   "count": 1,
+   "nome_cientifico": "Clytolaema rubricauda"
+  }
+ ]
+}
