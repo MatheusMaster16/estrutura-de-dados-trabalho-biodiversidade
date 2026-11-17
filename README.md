@@ -43,4 +43,21 @@ Os dados das APIs são salvos sem alteração em `dados_brutos/` (arquivos `.jso
 
 . Qual é a **qualidade** dos dados e o que precisou ser limpo?.
 
+**4. Como rodar o projeto**
+
+Precisa de **Python** e de **internet**. Abra a pasta no VS Code e rode nesta ordem:
+
+pip install -r requirements.txt     # 1. instala as bibliotecas
+
+python 1_coleta.py                  # 2. busca os dados nas APIs (leva ~2 minutos)
+
+python 2_tratamento.py              # 3. limpa e organiza os dados
+
+python -m streamlit run 3_dash.py   # 4. abre o dashboard no navegador
+
+- O passo 2 cria a pasta `dados_brutos/` e o passo 3 cria a pasta `dados_tratados/`.
+- As duas pastas já vêm no repositório. Para só abrir o dashboard, basta fazer os passos 1 e 4.
+- O dashboard abre em `http://localhost:8501`.
+
+> O dashboard abre com `python -m streamlit run 3_dash.py`. Rodar `python 3_dash.py` não abre a página.
 
