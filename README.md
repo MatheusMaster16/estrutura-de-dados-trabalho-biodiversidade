@@ -28,3 +28,19 @@ Projeto de Ciência de Dados: registros de animais no Brasil (API do GBIF) cruza
 **Sobre os dados:** cada registro do GBIF é um animal observado ou coletado em um lugar e uma data. Como são mais de 24 milhões de registros no Brasil, usamos o recurso de **facet** da API: em vez de baixar todos os registros, a API devolve as contagens já agrupadas (por exemplo, quantos registros por estado). Nenhuma das APIs precisa de chave ou senha. 
 
 Os dados das APIs são salvos sem alteração em `dados_brutos/` (arquivos `.json`). Depois de limpos e organizados, ficam em `dados_tratados/` (arquivos `.csv`), que é de onde o dashboard lê.
+
+**3. Perguntas que o dashboard responde**
+
+. Como cresceu o número de registros de animais e **quem** os produz;
+
+. Os estados e as regiões são registrados por igual? Isso tem relação com a **população**? Quais são os **pontos cegos**?;
+
+. Quais **grupos de animais** são mais registrados e **em que meses**?;
+
+. Onde estão os registros de **espécies ameaçadas** de extinção e **quais espécies** aparecem?;
+
+. Como **Jundiaí** se compara com o Brasil e com as cidades vizinhas? Quais **beija-flores** vivem na cidade?;
+
+. Qual é a **qualidade** dos dados e o que precisou ser limpo?.
+
+
