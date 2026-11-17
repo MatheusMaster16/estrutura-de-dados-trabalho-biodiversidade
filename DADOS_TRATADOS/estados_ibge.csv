@@ -1,0 +1,28 @@
+uf,nome,regiao,codigo_ibge,area_km2,populacao
+AC,Acre,Norte,12,164173.429,830018.0
+AL,Alagoas,Nordeste,27,27830.661,3127683.0
+AP,Amapá,Norte,16,142470.762,733759.0
+AM,Amazonas,Norte,13,1559255.881,3941613.0
+BA,Bahia,Nordeste,29,564760.429,14141626.0
+CE,Ceará,Nordeste,23,148894.447,8794957.0
+DF,Distrito Federal,Centro-Oeste,53,5760.784,2817381.0
+ES,Espírito Santo,Sudeste,32,46074.448,3833712.0
+GO,Goiás,Centro-Oeste,52,340242.859,7056495.0
+MA,Maranhão,Nordeste,21,329651.496,6776699.0
+MT,Mato Grosso,Centro-Oeste,51,903208.361,3658649.0
+MS,Mato Grosso do Sul,Centro-Oeste,50,357142.082,2757013.0
+MG,Minas Gerais,Sudeste,31,586513.983,20539989.0
+PA,Pará,Norte,15,1245870.704,8120131.0
+PB,Paraíba,Nordeste,25,56467.242,3974687.0
+PR,Paraná,Sul,41,199298.981,11444380.0
+PE,Pernambuco,Nordeste,26,98067.877,9058931.0
+PI,Piauí,Nordeste,22,251755.481,3271199.0
+RJ,Rio de Janeiro,Sudeste,33,43750.425,16055174.0
+RN,Rio Grande do Norte,Nordeste,24,52809.599,3302729.0
+RS,Rio Grande do Sul,Sul,43,281707.151,10882965.0
+RO,Rondônia,Norte,11,237754.172,1581196.0
+RR,Roraima,Norte,14,223644.53,636707.0
+SC,Santa Catarina,Sul,42,95730.69,7610361.0
+SP,São Paulo,Sudeste,35,248219.485,44411238.0
+SE,Sergipe,Nordeste,28,21938.188,2210004.0
+TO,Tocantins,Norte,17,277423.627,1511460.0

@@ -1,0 +1,29 @@
+local,categoria,categoria_nome,nome_cientifico,nome_popular,classe_pt,registros
+Brasil,CR,Criticamente em perigo,Malacoctenus brunoi,,Não informada,3447
+Brasil,CR,Criticamente em perigo,Mussismilia braziliensis,,Corais,1847
+Brasil,CR,Criticamente em perigo,Eretmochelys imbricata,Tartaruga-de-pente,Tartarugas,1519
+Brasil,CR,Criticamente em perigo,Madracis decactis,,Corais,753
+Brasil,CR,Criticamente em perigo,Mergus octosetaceus,Pato-mergulhão,Aves,682
+Brasil,EN,Em perigo,Stegastes rocasensis,,Não informada,6865
+Brasil,EN,Em perigo,Amazona vinacea,Papagaio-de-peito-roxo,Aves,4918
+Brasil,EN,Em perigo,Scarus trispinosus,Budião-azul,Não informada,3873
+Brasil,EN,Em perigo,Iodopleura pipra,,Aves,2016
+Brasil,EN,Em perigo,Pipile jacutinga,Jacutinga,Aves,1857
+Brasil,VU,Vulnerável,Trichechus manatus,Peixe-boi,Mamíferos,121861
+Brasil,VU,Vulnerável,Crax fasciolata,Mutum-de-penacho,Aves,18883
+Brasil,VU,Vulnerável,Anodorhynchus hyacinthinus,Arara-azul,Aves,14083
+Brasil,VU,Vulnerável,Tringa flavipes,Maçarico-de-perna-amarela,Aves,10584
+Brasil,VU,Vulnerável,Penelope ochrogaster,Jacu-de-barriga-castanha,Aves,6452
+Jundiaí,EN,Em perigo,Sylvilagus brasiliensis,Tapiti,Mamíferos,1
+Jundiaí,EN,Em perigo,Mesocricetus auratus,Hamster-dourado,Mamíferos,1
+Jundiaí,EN,Em perigo,Callithrix aurita,Sagui-da-serra-escuro,Mamíferos,1
+Jundiaí,VU,Vulnerável,Tringa flavipes,Maçarico-de-perna-amarela,Aves,19
+Jundiaí,VU,Vulnerável,Leopardus tigrinus,Gato-do-mato-pequeno,Mamíferos,15
+Jundiaí,VU,Vulnerável,Sporophila frontalis,Pixoxó,Aves,14
+Jundiaí,VU,Vulnerável,Hylodes ornatus,,Anfíbios,14
+Jundiaí,VU,Vulnerável,Sporophila falcirostris,,Aves,2
+Jundiaí,VU,Vulnerável,Rachoviscus crassiceps,,Não informada,1
+Jundiaí,VU,Vulnerável,Myrmecophaga tridactyla,Tamanduá-bandeira,Mamíferos,1
+Jundiaí,VU,Vulnerável,Tayassu pecari,Queixada,Mamíferos,1
+Jundiaí,VU,Vulnerável,Drymaeus acervatus,,Caramujos,1
+Jundiaí,VU,Vulnerável,Leopardus guttulus,Gato-do-mato-pequeno-do-sul,Mamíferos,1

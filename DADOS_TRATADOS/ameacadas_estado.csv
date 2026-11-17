@@ -1,0 +1,82 @@
+categoria,uf,registros,categoria_nome,regiao
+CR,AC,10,Criticamente em perigo,Norte
+CR,AL,662,Criticamente em perigo,Nordeste
+CR,AM,314,Criticamente em perigo,Norte
+CR,AP,8,Criticamente em perigo,Norte
+CR,BA,1047,Criticamente em perigo,Nordeste
+CR,CE,252,Criticamente em perigo,Nordeste
+CR,DF,18,Criticamente em perigo,Centro-Oeste
+CR,ES,687,Criticamente em perigo,Sudeste
+CR,GO,89,Criticamente em perigo,Centro-Oeste
+CR,MA,58,Criticamente em perigo,Nordeste
+CR,MG,889,Criticamente em perigo,Sudeste
+CR,MS,72,Criticamente em perigo,Centro-Oeste
+CR,MT,40,Criticamente em perigo,Centro-Oeste
+CR,PA,158,Criticamente em perigo,Norte
+CR,PB,30,Criticamente em perigo,Nordeste
+CR,PE,1032,Criticamente em perigo,Nordeste
+CR,PI,49,Criticamente em perigo,Nordeste
+CR,PR,63,Criticamente em perigo,Sul
+CR,RJ,250,Criticamente em perigo,Sudeste
+CR,RN,365,Criticamente em perigo,Nordeste
+CR,RO,18,Criticamente em perigo,Norte
+CR,RR,11,Criticamente em perigo,Norte
+CR,RS,730,Criticamente em perigo,Sul
+CR,SC,453,Criticamente em perigo,Sul
+CR,SE,52,Criticamente em perigo,Nordeste
+CR,SP,399,Criticamente em perigo,Sudeste
+CR,TO,114,Criticamente em perigo,Norte
+EN,AC,13,Em perigo,Norte
+EN,AL,688,Em perigo,Nordeste
+EN,AM,869,Em perigo,Norte
+EN,AP,81,Em perigo,Norte
+EN,BA,2905,Em perigo,Nordeste
+EN,CE,1246,Em perigo,Nordeste
+EN,DF,175,Em perigo,Centro-Oeste
+EN,ES,1373,Em perigo,Sudeste
+EN,GO,542,Em perigo,Centro-Oeste
+EN,MA,102,Em perigo,Nordeste
+EN,MG,2073,Em perigo,Sudeste
+EN,MS,377,Em perigo,Centro-Oeste
+EN,MT,1193,Em perigo,Centro-Oeste
+EN,PA,404,Em perigo,Norte
+EN,PB,453,Em perigo,Nordeste
+EN,PE,1882,Em perigo,Nordeste
+EN,PI,206,Em perigo,Nordeste
+EN,PR,1650,Em perigo,Sul
+EN,RJ,2404,Em perigo,Sudeste
+EN,RN,231,Em perigo,Nordeste
+EN,RO,284,Em perigo,Norte
+EN,RR,169,Em perigo,Norte
+EN,RS,3225,Em perigo,Sul
+EN,SC,2835,Em perigo,Sul
+EN,SE,91,Em perigo,Nordeste
+EN,SP,5215,Em perigo,Sudeste
+EN,TO,93,Em perigo,Norte
+VU,AC,956,Vulnerável,Norte
+VU,AL,2381,Vulnerável,Nordeste
+VU,AM,6481,Vulnerável,Norte
+VU,AP,779,Vulnerável,Norte
+VU,BA,10363,Vulnerável,Nordeste
+VU,CE,4577,Vulnerável,Nordeste
+VU,DF,944,Vulnerável,Centro-Oeste
+VU,ES,4998,Vulnerável,Sudeste
+VU,GO,2287,Vulnerável,Centro-Oeste
+VU,MA,1718,Vulnerável,Nordeste
+VU,MG,6502,Vulnerável,Sudeste
+VU,MS,12945,Vulnerável,Centro-Oeste
+VU,MT,37847,Vulnerável,Centro-Oeste
+VU,PA,11105,Vulnerável,Norte
+VU,PB,712,Vulnerável,Nordeste
+VU,PE,3201,Vulnerável,Nordeste
+VU,PI,393,Vulnerável,Nordeste
+VU,PR,2758,Vulnerável,Sul
+VU,RJ,6249,Vulnerável,Sudeste
+VU,RN,2410,Vulnerável,Nordeste
+VU,RO,6266,Vulnerável,Norte
+VU,RR,662,Vulnerável,Norte
+VU,RS,11216,Vulnerável,Sul
+VU,SC,6752,Vulnerável,Sul
+VU,SE,1644,Vulnerável,Nordeste
+VU,SP,12324,Vulnerável,Sudeste
+VU,TO,1756,Vulnerável,Norte
