@@ -19,12 +19,12 @@ Projeto de Ciência de Dados: registros de animais no Brasil (API do GBIF) cruza
 
 | API | Endereço | Dados usados |
 
-| **GBIF** (Global Biodiversity Information Facility) | 'https://api.gbif.org/v1/occurrence/search' | Registros de animais no Brasil de 2000 a 2025, contados por ano, estado, tipo de registro, grupo de animais, mês e categoria de ameaça. Os mesmos dados para Jundiaí e 6 cidades vizinhas, e os beija-flores de Jundiaí. |
+| **GBIF** (Global Biodiversity Information Facility) | [api.gbif.org/v1/occurrence/search](https://api.gbif.org/v1/occurrence/search?country=BR&taxonKey=1&occurrenceStatus=PRESENT&limit=0&facet=stateProvince) | Registros de animais no Brasil de 2000 a 2025, contados por ano, estado, tipo de registro, grupo de animais, mês e categoria de ameaça. Os mesmos dados para Jundiaí e 6 cidades vizinhas, e os beija-flores de Jundiaí. |
 
-| **GBIF** (espécies e conjuntos de dados) | 'https://api.gbif.org/v1/species/...' e 'https://api.gbif.org/v1/dataset/...' | Nome científico e classe das espécies e nome das instituições que publicaram os dados. |
+| **GBIF** (espécies e conjuntos de dados) | [api.gbif.org/v1/species](https://api.gbif.org/v1/species/2482755) e [api.gbif.org/v1/dataset](https://api.gbif.org/v1/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e) | Nome científico e classe das espécies e nome das instituições que publicaram os dados. |
 
-| **IBGE** (API de Agregados) | 'https://servicodados.ibge.gov.br/api/v3/agregados/4714/...' | População e área (km²) dos estados e das cidades, Censo 2022. |
+| **IBGE** (API de Agregados) | [servicodados.ibge.gov.br/api/v3/agregados/4714](https://servicodados.ibge.gov.br/api/v3/agregados/4714/periodos/2022/variaveis/93%7C6318?localidades=N3%5Ball%5D) | População e área (km²) dos estados e das cidades, Censo 2022. |
 
-**Sobre os dados:** cada registro do GBIF é um animal observado ou coletado em um lugar e uma data. Como são mais de 24 milhões de registros no Brasil, usamos o recurso de **facet** da API: em vez de baixar todos os registros, a API devolve as contagens já agrupadas (por exemplo, quantos registros por estado). Nenhuma das APIs precisa de chave ou senha.
+**Sobre os dados:** cada registro do GBIF é um animal observado ou coletado em um lugar e uma data. Como são mais de 24 milhões de registros no Brasil, usamos o recurso de **facet** da API: em vez de baixar todos os registros, a API devolve as contagens já agrupadas (por exemplo, quantos registros por estado). Nenhuma das APIs precisa de chave ou senha. Os links da tabela abrem um exemplo real de cada consulta no navegador (registros por estado no GBIF, a espécie bem-te-vi, o conjunto de dados do eBird e a população e área dos estados no IBGE).
 
-Os dados das APIs são salvos sem alteração em 'dados_brutos/' (arquivos '.json'). Depois de limpos e organizados, ficam em 'dados_tratados/' (arquivos '.csv'), que é de onde o dashboard lê.
+Os dados das APIs são salvos sem alteração em `dados_brutos/` (arquivos `.json`). Depois de limpos e organizados, ficam em `dados_tratados/` (arquivos `.csv`), que é de onde o dashboard lê.
