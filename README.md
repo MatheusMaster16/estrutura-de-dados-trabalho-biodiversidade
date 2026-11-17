@@ -27,17 +27,12 @@ Os dados das APIs são salvos sem alteração em `dados_brutos/` (arquivos `.jso
 
 **3. Perguntas que o dashboard responde**
 
-. Como cresceu o número de registros de animais e **quem** os produz;
-
-. Os estados e as regiões são registrados por igual? Isso tem relação com a **população**? Quais são os **pontos cegos**?;
-
-. Quais **grupos de animais** são mais registrados e **em que meses**?;
-
-. Onde estão os registros de **espécies ameaçadas** de extinção e **quais espécies** aparecem?;
-
-. Como **Jundiaí** se compara com o Brasil e com as cidades vizinhas? Quais **beija-flores** vivem na cidade?;
-
-. Qual é a **qualidade** dos dados e o que precisou ser limpo?.
+- Como cresceu o número de registros de animais e **quem** os produz;
+- Os estados e as regiões são registrados por igual? Isso tem relação com a **população**? Quais são os **pontos cegos**?;
+- Quais **grupos de animais** são mais registrados e **em que meses**?;
+- Onde estão os registros de **espécies ameaçadas** de extinção e **quais espécies** aparecem?;
+- Como **Jundiaí** se compara com o Brasil e com as cidades vizinhas? Quais **beija-flores** vivem na cidade?;
+- Qual é a **qualidade** dos dados e o que precisou ser limpo?.
 
 **4. Como rodar o projeto**
 
