@@ -65,3 +65,32 @@ python -m streamlit run 3_dash.py   (# 4. abre o dashboard no navegador)
 
 **Limpeza dos dados:** no GBIF, o nome do estado é texto livre, e cada instituição escreve de um jeito. Encontrei **653 grafias diferentes** ("São Paulo", "Sao Paulo", "SP", "Estado da Bahia"...). Tirei acentos, maiúsculas e prefixos e usei um dicionário para chegar à sigla do estado. Resultado: **27 estados** e **99,9% dos registros reconhecidos**.
 
+**5. O dashboard**
+
+**Filtros (barra lateral):**
+- **Slider:** período (de 2000 a 2025);
+- **Dropdown:** região do Brasil;
+- **Botão de rádio:** forma de medir os estados (total, por km² ou por 1.000 habitantes);
+- **Dropdown:** grupo de animais;
+- **Caixa de seleção:** mostrar as tabelas de dados.
+
+**Indicadores (KPIs):** total de registros no período, estado líder, % de observação humana e % de registros com estado reconhecido. Na aba de Jundiaí: registros, registros por km², % de insetos e % de espécimes de museu.
+
+<img width="306" height="523" alt="image" src="https://github.com/user-attachments/assets/2b2dce45-0e0f-4fb1-b780-cbb9d2e7326a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
