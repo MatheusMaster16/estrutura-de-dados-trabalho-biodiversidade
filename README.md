@@ -36,7 +36,7 @@ Os dados das APIs são salvos sem alteração em `dados_brutos/` (arquivos `.jso
 
 **4. Como rodar o projeto**
 
-Precisa de **Python** e de **internet**. Abra a pasta no VS Code e rode nesta ordem:
+Precisa de **Python** e de **internet**. Abra a pasta no VS Code e rode nesta ordem no terminal:
 
 1. pip install -r requirements.txt     (# 1. instala as bibliotecas)
 2. python 1_coleta.py                 (# 2. busca os dados nas APIs)
