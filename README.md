@@ -67,7 +67,8 @@ python -m streamlit run 3_dash.py   (# 4. abre o dashboard no navegador)
 
 **5. O dashboard**
 
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/48fefafe-d8d6-4e88-8f9b-8b50a35a15ad" />
+<img width="1920" height="904" alt="image" src="https://github.com/user-attachments/assets/277cab20-ccf2-4f64-a1f7-64043197d77e" />
+
 
 **Filtros (barra lateral):**
 - **Slider:** período (de 2000 a 2025);
