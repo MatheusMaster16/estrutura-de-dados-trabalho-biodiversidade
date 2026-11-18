@@ -52,3 +52,16 @@ python -m streamlit run 3_dash.py   (# 4. abre o dashboard no navegador)
 
 > O dashboard abre com `python -m streamlit run 3_dash.py`. Rodar `python 3_dash.py` não abre a página.
 
+
+| Arquivo | O que faz |
+
+| `1_coleta.py` | Pede os dados ao GBIF e ao IBGE com a biblioteca `requests` e salva as respostas em `dados_brutos/` |  
+
+| `2_tratamento.py` | Com `pandas`: padroniza os nomes dos estados, junta com população e área (`merge`), agrupa e soma (`groupby`) e cria colunas novas (registros por km², por 1.000 habitantes, % do ano). Salva em `dados_tratados/` |
+
+| `3_dash.py` | Com `streamlit` e `plotly`: lê as tabelas e mostra os filtros, indicadores e gráficos |
+
+| `requirements.txt` | Bibliotecas usadas |
+
+**Limpeza dos dados:** no GBIF, o nome do estado é texto livre, e cada instituição escreve de um jeito. Encontrei **653 grafias diferentes** ("São Paulo", "Sao Paulo", "SP", "Estado da Bahia"...). Tirei acentos, maiúsculas e prefixos e usei um dicionário para chegar à sigla do estado. Resultado: **27 estados** e **99,9% dos registros reconhecidos**.
+
