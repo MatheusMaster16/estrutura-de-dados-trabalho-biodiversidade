@@ -101,19 +101,19 @@ Compara Jundiaí com o Brasil e com as cidades vizinhas. A cidade tem **79.004 r
 Mostra o resultado da limpeza: de 653 grafias de estado para 27 estados. **3,9%** dos registros não informam o estado; eles entram no total do Brasil, mas não nos gráficos por estado.
 
 **6. Principais conclusões**
-1. **Quem registra a fauna mudou:** em 2025, 99,8% dos registros são observações de pessoas, feitas com aplicativos de ciência popular.
-2. **Os dados mostram onde há gente, não onde há bicho:** o Norte, onde está a Amazônia, tem 18 vezes menos registros por km² que o Sudeste.
-3. **As aves dominam:** são 90% dos registros, enquanto os insetos, o grupo mais diverso do planeta, são 6%.
-4. **O registro tem estação:** anfíbios são mais registrados no verão chuvoso; aves, em outubro.
-5. **Poucas espécies concentram os registros de ameaça:** só o peixe-boi tem 41,8% dos registros de espécies vulneráveis.
-6. **Jundiaí é diferente por causa da Serra do Japi:** a cidade tem quatro vezes mais insetos, na proporção, que o Brasil.
+1. **Quem registra a fauna mudou:** em 2025, 99,8% dos registros são observações de pessoas, feitas com aplicativos de ciência popular;
+2. **Os dados mostram onde há gente, não onde há bicho:** o Norte, onde está a Amazônia, tem 18 vezes menos registros por km² que o Sudeste;
+3. **As aves dominam:** são 90% dos registros, enquanto os insetos, o grupo mais diverso do planeta, são 6%;
+4. **O registro tem estação:** anfíbios são mais registrados no verão chuvoso; aves, em outubro;
+5. **Poucas espécies concentram os registros de ameaça:** só o peixe-boi tem 41,8% dos registros de espécies vulneráveis;
+6. **Jundiaí é diferente por causa da Serra do Japi:** a cidade tem quatro vezes mais insetos, na proporção, que o Brasil;
 7. **Existe um ponto cego ao lado da faculdade:** Várzea Paulista tem 0,9 registro por 1.000 habitantes, contra 178,2 em Jundiaí.
 
 **7. Limitações**
 
-- Mais registros **não** significam mais animais, e sim mais pessoas observando.
-- Peixes não entraram: o GBIF não tem uma classe única para os peixes ósseos.
-- A categoria de ameaça é a da IUCN (lista mundial), que pode ser diferente da lista oficial do Brasil.
+- Mais registros **não** significam mais animais, e sim mais pessoas observando;
+- Peixes não entraram: o GBIF não tem uma classe única para os peixes ósseos;
+- A categoria de ameaça é a da IUCN (lista mundial), que pode ser diferente da lista oficial do Brasil;
 - Os nomes populares das espécies foram adicionados à mão.
 
 Dados do [GBIF.org](https://www.gbif.org) e do [IBGE](https://www.ibge.gov.br). Categorias de ameaça: [IUCN](https://www.iucnredlist.org).
