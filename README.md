@@ -85,6 +85,28 @@ Mostra quantos registros foram feitos por ano e de que tipo. Os registros por an
 <img width="1544" height="830" alt="image" src="https://github.com/user-attachments/assets/0e0875ea-3309-4b76-9d97-3b9cd8694f98" />
 Compara os estados e as regiões na medida escolhida no botão de rádio. **SP, MG e RJ somam 45,2%** dos registros. Por km², o **Sudeste tem 12,63 registros e o Norte 0,68**, 18,5 vezes menos. A correlação entre população e registros é **0,74**. O dashboard aponta **7 pontos cegos**, estados abaixo da mediana tanto por km² quanto por habitante: Piauí, Maranhão, Amapá, Pará, Bahia, Sergipe e Goiás.
 
+**Grupos de animais**
+<img width="1509" height="816" alt="image" src="https://github.com/user-attachments/assets/19a6feb3-1c6f-433c-bddb-72ae311828c9" />
+<img width="1881" height="650" alt="image" src="https://github.com/user-attachments/assets/2cf00510-0248-4bb4-9091-c959737f17c1" />
+Mostra quais grupos de animais são mais registrados e em que meses. As **aves são 90%** dos registros. O gráfico de meses muda com o grupo escolhido: anfíbios têm pico em **janeiro** (14,0% do ano) e mínimo em junho (4,4%); aves têm pico em **outubro** (12,8%).
+
+**Espécies ameaçadas**
+<img width="1545" height="566" alt="image" src="https://github.com/user-attachments/assets/f95468e5-e0a1-47d5-aeef-5c2fda381106" />
+Mostra onde estão os registros de espécies ameaçadas e quais espécies aparecem. O **Mato Grosso** tem a maior parte desses registros (19,7%). O **peixe-boi** sozinho tem 121.861 registros, **41,8%** de todos os registros de espécies vulneráveis.
+
+**Jundiaí em foco**
+<img width="1521" height="713" alt="image" src="https://github.com/user-attachments/assets/d1e5e133-f906-4c27-ae2f-ab5be9f1d20d" />
+<img width="1517" height="575" alt="image" src="https://github.com/user-attachments/assets/6ea4a1a8-9fa3-4fa1-89c4-87a5ec3c42f1" />
+Compara Jundiaí com o Brasil e com as cidades vizinhas. A cidade tem **79.004 registros**, e **24,5% são insetos** (no Brasil, 6,1%): 13.143 dos 19.341 registros de insetos citam a **Reserva Biológica da Serra do Japi**. A vizinha **Várzea Paulista**, com 115.771 habitantes, tem só **104 registros**. Entre as espécies ameaçadas da cidade aparece um hamster-dourado com um único registro, quase certamente um animal de estimação. No fim da aba, **2.074 registros de beija-flores, de 20 espécies**; o mais comum é o beija-flor-tesoura (21,8%).
+
+**Qualidade dos dados**
+<img width="1501" height="689" alt="image" src="https://github.com/user-attachments/assets/f9ad2aa4-f3c9-4b1b-a60b-1143f85f3f57" />
+Mostra o resultado da limpeza: de 653 grafias de estado para 27 estados. **3,9%** dos registros não informam o estado; eles entram no total do Brasil, mas não nos gráficos por estado.
+
+
+
+
+
 
 
 
