@@ -67,19 +67,23 @@ python -m streamlit run 3_dash.py   (# 4. abre o dashboard no navegador)
 
 **5. O dashboard**
 
-<img width="1920" height="904" alt="image" src="https://github.com/user-attachments/assets/277cab20-ccf2-4f64-a1f7-64043197d77e" />
-
-
 **Filtros (barra lateral):**
 - **Slider:** período (de 2000 a 2025);
 - **Dropdown:** região do Brasil;
 - **Botão de rádio:** forma de medir os estados (total, por km² ou por 1.000 habitantes);
 - **Dropdown:** grupo de animais;
 - **Caixa de seleção:** mostrar as tabelas de dados.
+<img width="306" height="523" alt="image" src="https://github.com/user-attachments/assets/2b2dce45-0e0f-4fb1-b780-cbb9d2e7326a" />
 
 **Indicadores (KPIs):** total de registros no período, estado líder, % de observação humana e % de registros com estado reconhecido. Na aba de Jundiaí: registros, registros por km², % de insetos e % de espécimes de museu.
 
-<img width="306" height="523" alt="image" src="https://github.com/user-attachments/assets/2b2dce45-0e0f-4fb1-b780-cbb9d2e7326a" />
+**Evolução**
+<img width="1920" height="904" alt="image" src="https://github.com/user-attachments/assets/277cab20-ccf2-4f64-a1f7-64043197d77e" />
+Mostra quantos registros foram feitos por ano e de que tipo. Os registros por ano passaram de **112.690 (2000) para 4.323.776 (2025)**, cerca de 38 vezes mais. A observação feita por pessoas foi de **30,3% para 99,8%** dos registros, e os espécimes de museu caíram de 62,5% para 0,1%.
+
+**Estados**
+<img width="1544" height="830" alt="image" src="https://github.com/user-attachments/assets/0e0875ea-3309-4b76-9d97-3b9cd8694f98" />
+Compara os estados e as regiões na medida escolhida no botão de rádio. **SP, MG e RJ somam 45,2%** dos registros. Por km², o **Sudeste tem 12,63 registros e o Norte 0,68**, 18,5 vezes menos. A correlação entre população e registros é **0,74**. O dashboard aponta **7 pontos cegos**, estados abaixo da mediana tanto por km² quanto por habitante: Piauí, Maranhão, Amapá, Pará, Bahia, Sergipe e Goiás.
 
 
 
