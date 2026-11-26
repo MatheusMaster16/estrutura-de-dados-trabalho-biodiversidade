@@ -3,6 +3,10 @@ Projeto de Ciência de Dados: registros de animais no Brasil (API do GBIF) cruza
 
 **Matheus Felipe de Oliveira**
 
+**Apresentação**
+
+https://youtu.be/XASKhbWoW4c?si=a-AFiNKvzEn6GA0G
+
 **1. Tema e justificativa**
 
 - A dificuldade com a manipulação da API do tema escolhido anteriormente, onde a chave da API era ligada a conta individual do Steam, me levou a buscar API's totalmente gratuitas;
